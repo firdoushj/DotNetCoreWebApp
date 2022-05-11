@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
+      "projectUniqueName": "F:\\GITHubProjects\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
       "projectName": "DotNetCoreWebApp",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
+      "projectPath": "F:\\GITHubProjects\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\DotNetCoreWebApp\\DotNetCoreWebApp\\obj\\",
+      "outputPath": "F:\\GITHubProjects\\DotNetCoreWebApp\\DotNetCoreWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
